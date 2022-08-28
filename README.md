@@ -1,0 +1,2 @@
+# FinalKutuphaneOtomasyonu
+ kütüphane otomasyonu

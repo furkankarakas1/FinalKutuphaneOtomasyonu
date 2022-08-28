@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD05ECB3-5AB5-4985-AF00-F8D6DBA076DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLogicLayer\TblKullanicilarBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblKullanicilarBLL2.cs" />
+    <Compile Include="BusinessLogicLayer\TblKullanicilarBLL3.cs" />
+    <Compile Include="BusinessLogicLayer\TblKullanicilarBLL4.cs" />
+    <Compile Include="DataAccessObjectLayer\TblKullanicilarDAO.cs" />
+    <Compile Include="DataAccessObjectLayer\TblKullanicilarDAO2.cs" />
+    <Compile Include="DataAccessObjectLayer\TblKullanicilarDAO3.cs" />
+    <Compile Include="DataAccessObjectLayer\TblKullanicilarDAO4.cs" />
+    <Compile Include="dbConn\VeriTabaniBaglantisi.cs" />
+    <Compile Include="PocosLayer\TblKullanicilarPoco.cs" />
+    <Compile Include="PocosLayer\TblKullanicilarPoco2.cs" />
+    <Compile Include="PocosLayer\TblKullanicilarPoco3.cs" />
+    <Compile Include="PocosLayer\TblKullanicilarPoco4.cs" />
+    <Compile Include="PresantationLayer\AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme.Designer.cs">
+      <DependentUpon>KullaniciGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme2.Designer.cs">
+      <DependentUpon>KullaniciGuncelleme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme3.Designer.cs">
+      <DependentUpon>KullaniciGuncelleme3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme4.Designer.cs">
+      <DependentUpon>KullaniciGuncelleme4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme.Designer.cs">
+      <DependentUpon>KullaniciKayitSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme2.Designer.cs">
+      <DependentUpon>KullaniciKayitSilme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme3.Designer.cs">
+      <DependentUpon>KullaniciKayitSilme3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme4.Designer.cs">
+      <DependentUpon>KullaniciKayitSilme4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme.Designer.cs">
+      <DependentUpon>KullaniciListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme2.Designer.cs">
+      <DependentUpon>KullaniciListeleme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme3.Designer.cs">
+      <DependentUpon>KullaniciListeleme3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciListeleme4.Designer.cs">
+      <DependentUpon>KullaniciListeleme4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit3.Designer.cs">
+      <DependentUpon>KullaniciYeniKayit3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit.Designer.cs">
+      <DependentUpon>KullaniciYeniKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit2.Designer.cs">
+      <DependentUpon>KullaniciYeniKayit2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit4.Designer.cs">
+      <DependentUpon>KullaniciYeniKayit4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresantationLayer\OturumAcilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresantationLayer\OturumAcilis.Designer.cs">
+      <DependentUpon>OturumAcilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PresantationLayer\AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme.resx">
+      <DependentUpon>KullaniciGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme2.resx">
+      <DependentUpon>KullaniciGuncelleme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme3.resx">
+      <DependentUpon>KullaniciGuncelleme3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciGuncelleme4.resx">
+      <DependentUpon>KullaniciGuncelleme4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme.resx">
+      <DependentUpon>KullaniciKayitSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme2.resx">
+      <DependentUpon>KullaniciKayitSilme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme3.resx">
+      <DependentUpon>KullaniciKayitSilme3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciKayitSilme4.resx">
+      <DependentUpon>KullaniciKayitSilme4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciListeleme.resx">
+      <DependentUpon>KullaniciListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciListeleme2.resx">
+      <DependentUpon>KullaniciListeleme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciListeleme3.resx">
+      <DependentUpon>KullaniciListeleme3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciListeleme4.resx">
+      <DependentUpon>KullaniciListeleme4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit3.resx">
+      <DependentUpon>KullaniciYeniKayit3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit.resx">
+      <DependentUpon>KullaniciYeniKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit2.resx">
+      <DependentUpon>KullaniciYeniKayit2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\Kullanicilar\KullaniciYeniKayit4.resx">
+      <DependentUpon>KullaniciYeniKayit4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresantationLayer\OturumAcilis.resx">
+      <DependentUpon>OturumAcilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\erkanildiz1007.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

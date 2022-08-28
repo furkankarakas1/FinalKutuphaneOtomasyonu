@@ -1,0 +1,42 @@
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OturumAcilis.resources
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.AnaMenu.resources
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciYeniKayit.resources
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciGuncelleme.resources
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciKayitSilme.resources
+C:\Users\Furkan\Desktop\python\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciListeleme.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.AnaMenu.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciGuncelleme.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciKayitSilme.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciListeleme.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciYeniKayit.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OturumAcilis.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciYeniKayit2.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciGuncelleme2.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciKayitSilme2.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciListeleme2.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciYeniKayit3.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciGuncelleme3.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciKayitSilme3.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciListeleme3.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciYeniKayit4.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciGuncelleme4.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciKayitSilme4.resources
+C:\Users\Furkan\Desktop\python\C#\otomasyon\WindowsFormsApp1 - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PresantationLayer.Kullanicilar.KullaniciListeleme4.resources
